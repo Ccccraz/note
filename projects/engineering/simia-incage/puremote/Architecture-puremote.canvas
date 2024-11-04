@@ -1,0 +1,140 @@
+{
+  "nodes": [
+    {
+      "id": "2fbec92ccbe331f3",
+      "x": -160,
+      "y": 220,
+      "width": 860,
+      "height": 340,
+      "type": "group",
+      "label": "warning system"
+    },
+    {
+      "id": "fd46d077bd518c38",
+      "x": -160,
+      "y": 0,
+      "width": 860,
+      "height": 180,
+      "type": "group",
+      "label": "Data tracking"
+    },
+    {
+      "id": "12c0a5134521d710",
+      "type": "group",
+      "x": -160,
+      "y": -140,
+      "width": 860,
+      "height": 100,
+      "label": "CCTV"
+    },
+    {
+      "id": "abfd520a8aa5a171",
+      "type": "text",
+      "text": "# Trial Data",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 20,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "07124f4893dbdbb0",
+      "type": "text",
+      "text": "# Session Information",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 20,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "17d3c7874426a77c",
+      "type": "text",
+      "text": "# System Status",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 100,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "3492e717634d27e9",
+      "type": "text",
+      "text": "# Data Visualization",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 100,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "403596405c8fdfa5",
+      "type": "text",
+      "text": "# System Warning\n- Low water level\n- No water in pipe\n- low power",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 240,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "f33ff1fd2dd956d4",
+      "type": "text",
+      "text": "# Experiment Warning\n- Too long an interval\n- Experiment crash\n- etc",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 240,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "0f5c6d54df1d37b4",
+      "type": "text",
+      "text": "# Mail Services",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 480,
+      "width": 820,
+      "height": 60
+    },
+    {
+      "id": "123904dc573b5274",
+      "type": "text",
+      "text": "# Behavior Monitor",
+      "styleAttributes": {},
+      "x": 280,
+      "y": -120,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "79dba1e7e8ffad88",
+      "type": "text",
+      "text": "# Video Monitor",
+      "styleAttributes": {},
+      "x": -140,
+      "y": -120,
+      "width": 400,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "6462fd4a08c37108",
+      "styleAttributes": {},
+      "fromNode": "f33ff1fd2dd956d4",
+      "fromSide": "bottom",
+      "toNode": "0f5c6d54df1d37b4",
+      "toSide": "top"
+    },
+    {
+      "id": "daaf481cd3252117",
+      "styleAttributes": {},
+      "fromNode": "403596405c8fdfa5",
+      "fromSide": "bottom",
+      "toNode": "0f5c6d54df1d37b4",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
