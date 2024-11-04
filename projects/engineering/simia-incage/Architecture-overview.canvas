@@ -52,156 +52,98 @@
       "label": "puremote"
     },
     {
-      "id": "684d9e8dc4ab1c29",
+      "id": "daea5387e13e3037",
       "type": "group",
       "styleAttributes": {},
-      "x": -340,
-      "y": 780,
+      "x": -400,
+      "y": 770,
       "width": 560,
       "height": 160,
       "color": "4",
       "label": "Input"
     },
     {
-      "id": "01eb5d9bafbb5281",
+      "id": "de856386bcf15fa1",
       "type": "group",
       "styleAttributes": {},
-      "x": -340,
-      "y": 600,
+      "x": -400,
+      "y": 590,
       "width": 560,
       "height": 140,
       "color": "4",
       "label": "Eye tracker"
     },
     {
-      "id": "f2ef4ff4f74acd5b",
+      "id": "88fef767abf2b651",
       "type": "group",
       "styleAttributes": {},
-      "x": -340,
-      "y": 980,
+      "x": -400,
+      "y": 970,
       "width": 560,
       "height": 140,
       "color": "4",
       "label": "Reward"
     },
     {
-      "id": "4a4793d0482bf3b2",
+      "id": "ca7d7fd4f7d71463",
       "type": "group",
       "styleAttributes": {
         "border": null
       },
-      "x": -340,
-      "y": 460,
+      "x": -400,
+      "y": 450,
       "width": 560,
       "height": 100,
       "color": "1",
       "label": "Controller"
     },
     {
-      "id": "2f87c1388e95c015",
+      "id": "c625f562260c508b",
       "type": "text",
       "text": "# IRec",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -320,
-      "y": 620,
+      "x": -380,
+      "y": 610,
       "width": 250,
       "height": 60
     },
     {
-      "id": "e9bfd713a157e22a",
+      "id": "781870f35012a074",
       "type": "text",
       "text": "# pupil-core incage",
       "styleAttributes": {
         "textAlign": null
       },
-      "x": -50,
-      "y": 620,
+      "x": -110,
+      "y": 610,
       "width": 250,
       "height": 100
     },
     {
-      "id": "4c2759e643a7f27a",
+      "id": "f35402fdc0852a48",
       "type": "text",
-      "text": "# x84 Mini pc",
+      "text": "# x84 platform",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -320,
-      "y": 480,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "c1141723e2c0cf67",
-      "type": "text",
-      "text": "# MQTT Client",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 255,
+      "x": -380,
       "y": 470,
       "width": 250,
       "height": 60
     },
     {
-      "id": "dd5910155eb59d62",
+      "id": "0b7f2e02ae025e3b",
       "type": "text",
-      "text": "# Data Monitor",
-      "styleAttributes": {},
-      "x": 1733,
-      "y": 631,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "25d39ff104478715",
-      "type": "text",
-      "text": "# Touch Screen",
+      "text": "# MQTT broker",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -320,
-      "y": 800,
+      "x": -110,
+      "y": 470,
       "width": 250,
       "height": 60
-    },
-    {
-      "id": "8039b3278bc28e09",
-      "type": "text",
-      "text": "# simia-joystick\n> USB HID Joystick",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -50,
-      "y": 800,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "99b2f3540e778e26",
-      "type": "text",
-      "text": "# Speaker",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -320,
-      "y": 1000,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "d928a6bb90313dfc",
-      "type": "text",
-      "text": "# simia-pump\n> USB HID pump",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -50,
-      "y": 1000,
-      "width": 250,
-      "height": 100
     },
     {
       "id": "8fe79df35da06078",
@@ -224,28 +166,6 @@
       },
       "x": 600,
       "y": 550,
-      "width": 440,
-      "height": 60
-    },
-    {
-      "id": "4ac158637d3f3f0e",
-      "type": "text",
-      "text": "# CCTV",
-      "styleAttributes": {},
-      "x": 1733,
-      "y": 710,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "55726ad0391beac4",
-      "type": "text",
-      "text": "# Pipeline Liquid Level Sensor",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 600,
-      "y": 790,
       "width": 440,
       "height": 60
     },
@@ -274,6 +194,30 @@
       "height": 60
     },
     {
+      "id": "1fa98d107b00afe0",
+      "type": "text",
+      "text": "# Heart Rate Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 600,
+      "y": 950,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "55726ad0391beac4",
+      "type": "text",
+      "text": "# Pipeline Liquid Level Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 600,
+      "y": 790,
+      "width": 440,
+      "height": 60
+    },
+    {
       "id": "2e59243d944af5ce",
       "type": "text",
       "text": "# Oximeter",
@@ -286,15 +230,13 @@
       "height": 60
     },
     {
-      "id": "1fa98d107b00afe0",
+      "id": "dd5910155eb59d62",
       "type": "text",
-      "text": "# Heart Rate Sensor",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 600,
-      "y": 950,
-      "width": 440,
+      "text": "# Data Monitor",
+      "styleAttributes": {},
+      "x": 1733,
+      "y": 631,
+      "width": 260,
       "height": 60
     },
     {
@@ -308,17 +250,73 @@
       "y": 1030,
       "width": 440,
       "height": 60
+    },
+    {
+      "id": "4ac158637d3f3f0e",
+      "type": "text",
+      "text": "# CCTV",
+      "styleAttributes": {},
+      "x": 1733,
+      "y": 710,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "14dac1b577cc83b1",
+      "type": "text",
+      "text": "# Touch Screen",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 790,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "8ec9a51a8b02afc8",
+      "type": "text",
+      "text": "# simia-joystick\n> USB HID Joystick",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -110,
+      "y": 790,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "3914a600c48754eb",
+      "type": "text",
+      "text": "# Speaker",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 990,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "dc67eb25cbedd320",
+      "type": "text",
+      "text": "# simia-pump\n> USB HID pump",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -110,
+      "y": 990,
+      "width": 250,
+      "height": 100
     }
   ],
   "edges": [
     {
-      "id": "fcdc921866dd6492",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
+      "id": "ecc10cde9adbdae9",
+      "styleAttributes": {},
       "fromNode": "110aad1811e00366",
       "fromSide": "left",
-      "toNode": "c1141723e2c0cf67",
+      "toNode": "0b7f2e02ae025e3b",
       "toSide": "right"
     }
   ],

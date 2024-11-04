@@ -107,7 +107,7 @@
     {
       "id": "e45422824cbda6b6",
       "type": "text",
-      "text": "# x84 Mini pc",
+      "text": "# x84 platform",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -129,16 +129,16 @@
       "height": 60
     },
     {
-      "id": "73807b1e837c281b",
+      "id": "d7c68e89d86390fb",
       "type": "text",
-      "text": "# Pipeline Liquid Level Sensor",
+      "text": "# simia-pump\n> USB HID pump",
       "styleAttributes": {
-        "textAlign": "center"
+        "textAlign": null
       },
-      "x": 220,
-      "y": 40,
-      "width": 440,
-      "height": 60
+      "x": -90,
+      "y": 240,
+      "width": 250,
+      "height": 100
     },
     {
       "id": "45a6ecc5aa2b56d4",
@@ -155,49 +155,13 @@
     {
       "id": "3b7df92ee1c8e80b",
       "type": "text",
-      "text": "# MQTT Client",
+      "text": "# MQTT broker",
       "styleAttributes": {
         "textAlign": "center"
       },
       "x": -90,
       "y": -280,
       "width": 250,
-      "height": 60
-    },
-    {
-      "id": "5899f683fa415f8a",
-      "type": "text",
-      "text": "# Temperature Sensor",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 220,
-      "y": -120,
-      "width": 440,
-      "height": 60
-    },
-    {
-      "id": "d7c68e89d86390fb",
-      "type": "text",
-      "text": "# simia-pump\n> USB HID pump",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -90,
-      "y": 240,
-      "width": 250,
-      "height": 100
-    },
-    {
-      "id": "9a65a54b4169729e",
-      "type": "text",
-      "text": "# Liquid Level Sensor",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 220,
-      "y": -40,
-      "width": 440,
       "height": 60
     },
     {
@@ -209,18 +173,6 @@
       },
       "x": 220,
       "y": -200,
-      "width": 440,
-      "height": 60
-    },
-    {
-      "id": "8214f035ee21e70c",
-      "type": "text",
-      "text": "# Oximeter",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 220,
-      "y": 120,
       "width": 440,
       "height": 60
     },
@@ -237,6 +189,30 @@
       "height": 60
     },
     {
+      "id": "5899f683fa415f8a",
+      "type": "text",
+      "text": "# Temperature Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -120,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "e16160d3813ca4df",
+      "type": "text",
+      "text": "# mmWave Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 280,
+      "width": 440,
+      "height": 60
+    },
+    {
       "id": "a1363f1b7fe6a1da",
       "type": "text",
       "text": "# Heart Rate Sensor",
@@ -245,6 +221,30 @@
       },
       "x": 220,
       "y": 200,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "73807b1e837c281b",
+      "type": "text",
+      "text": "# Pipeline Liquid Level Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 40,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "8214f035ee21e70c",
+      "type": "text",
+      "text": "# Oximeter",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 120,
       "width": 440,
       "height": 60
     },
@@ -273,18 +273,6 @@
       "height": 60
     },
     {
-      "id": "e16160d3813ca4df",
-      "type": "text",
-      "text": "# mmWave Sensor",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 220,
-      "y": 280,
-      "width": 440,
-      "height": 60
-    },
-    {
       "id": "2fc71a7f2459cbe7",
       "type": "text",
       "text": "# UPS",
@@ -294,6 +282,18 @@
       "x": 410,
       "y": 420,
       "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9a65a54b4169729e",
+      "type": "text",
+      "text": "# Liquid Level Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -40,
+      "width": 440,
       "height": 60
     }
   ],
