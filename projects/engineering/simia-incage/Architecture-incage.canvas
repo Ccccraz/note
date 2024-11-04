@@ -1,0 +1,302 @@
+{
+  "nodes": [
+    {
+      "id": "2d254cad37183dd0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -300,
+      "width": 480,
+      "height": 660,
+      "color": "5",
+      "label": "Sensor"
+    },
+    {
+      "id": "6b21cba0d370d98f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 400,
+      "width": 1060,
+      "height": 100,
+      "color": "6",
+      "label": "Power supply"
+    },
+    {
+      "id": "adcb53d501237098",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 20,
+      "width": 560,
+      "height": 160,
+      "color": "4",
+      "label": "Input"
+    },
+    {
+      "id": "1c0c8c598399e27a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": -160,
+      "width": 560,
+      "height": 140,
+      "color": "4",
+      "label": "Eye tracker"
+    },
+    {
+      "id": "47debbdf34043d49",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 220,
+      "width": 560,
+      "height": 140,
+      "color": "4",
+      "label": "Reward"
+    },
+    {
+      "id": "76680f2cfa999d16",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -380,
+      "y": -300,
+      "width": 560,
+      "height": 100,
+      "color": "1",
+      "label": "Controller"
+    },
+    {
+      "id": "5f929d318d9b3ed0",
+      "type": "text",
+      "text": "# Touch Screen",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": 40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3d51fa692772c238",
+      "type": "text",
+      "text": "# simia-joystick\n> USB HID Joystick",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -90,
+      "y": 40,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "b7845ca9b4825024",
+      "type": "text",
+      "text": "# IRec",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": -140,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e45422824cbda6b6",
+      "type": "text",
+      "text": "# x84 Mini pc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": -280,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a432f0b85d97830f",
+      "type": "text",
+      "text": "# Speaker",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": 240,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "73807b1e837c281b",
+      "type": "text",
+      "text": "# Pipeline Liquid Level Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 40,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "45a6ecc5aa2b56d4",
+      "type": "text",
+      "text": "# pupil-core incage",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -90,
+      "y": -140,
+      "width": 250,
+      "height": 100
+    },
+    {
+      "id": "3b7df92ee1c8e80b",
+      "type": "text",
+      "text": "# MQTT Client",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -90,
+      "y": -280,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5899f683fa415f8a",
+      "type": "text",
+      "text": "# Temperature Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -120,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "d7c68e89d86390fb",
+      "type": "text",
+      "text": "# simia-pump\n> USB HID pump",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -90,
+      "y": 240,
+      "width": 250,
+      "height": 100
+    },
+    {
+      "id": "9a65a54b4169729e",
+      "type": "text",
+      "text": "# Liquid Level Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -40,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "11abd17c7c4d1754",
+      "type": "text",
+      "text": "# Microphone",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -200,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "8214f035ee21e70c",
+      "type": "text",
+      "text": "# Oximeter",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 120,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "dec5ea9d51a6319e",
+      "type": "text",
+      "text": "# IR Cameras",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -280,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "a1363f1b7fe6a1da",
+      "type": "text",
+      "text": "# Heart Rate Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 200,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "06ea263ac1c806f2",
+      "type": "text",
+      "text": "# PD Battery",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 15,
+      "y": 420,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7a728112b260a6a9",
+      "type": "text",
+      "text": "# DC battery",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": 420,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e16160d3813ca4df",
+      "type": "text",
+      "text": "# mmWave Sensor",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": 280,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "2fc71a7f2459cbe7",
+      "type": "text",
+      "text": "# UPS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 410,
+      "y": 420,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
